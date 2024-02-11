@@ -1,0 +1,16 @@
+.btn {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.card-container {
+    display: flex;
+    gap : 10px;
+}
